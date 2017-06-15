@@ -34,8 +34,6 @@ Focusing on technologies which can facilitate the fusion of virtuality and reali
 * * * [ARWithOpenCVandThreeJS](https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/)
 * JS&NodeJS stack for powering standard web-based developments
 * * [Meteor](www.meteor.com)
-* * * [SSL for Meteor](https://github.com/nourharidy/meteor-ssl)
-* * * [Force SSL for Meteor](https://atmospherejs.com/meteor/force-ssl)
 * * [Cordova](http://cordova.apache.org)/[Ionic](ionicframework.com)
 * * [Angular](https://angular.io)/[React](https://facebook.github.io/react/)
 * Issues
@@ -83,9 +81,7 @@ Focusing on technologies which can facilitate the fusion of virtuality and reali
 *********************************************
 * [Heroku](https://www.heroku.com/) 
   | [Add-ons](https://elements.heroku.com/addons): [MongoLab](https://elements.heroku.com/addons/mongolab), [Compose MongoDB](https://elements.heroku.com/addons/mongohq), [Ruppell's Sockets](https://elements.heroku.com/addons/ruppells-sockets), [cine.io](https://elements.heroku.com/addons/cine), ...
-* [Modulus](https://modulus.io/)
 * [bluemix](https://console.ng.bluemix.net)
-* MongoDB: [MongoLab](https://mongolab.com/)|[MMS](https://mms.mongodb.com/)|...
 * [Dialogic](http://www.dialogic.com) [XMS](http://www.dialogic.com/en/products/media-server-software/xms.aspx)
 * [Backand](https://www.backand.com/) | Notes: For angular backend, in beta, “free-forever” account limited to 500 connections and 10GB data transfer
 * [OrchestrateIO](https://orchestrate.io) | Notes: 1 application free
