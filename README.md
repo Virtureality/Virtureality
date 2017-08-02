@@ -3,7 +3,7 @@ Focusing on technologies which can facilitate the fusion of virtuality and reali
 
 
 
-* 3D for modeling and making the virtual world
+* **3D for modeling and making the virtual world**
 * * [ThreeJS](http://threejs.org/)
 * * * [An introduction to Three.js - 3D graphics for the web](http://humaan.com/web-3d-graphics-using-three-js/)
 * * * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/)
@@ -32,7 +32,8 @@ Focusing on technologies which can facilitate the fusion of virtuality and reali
 * * * [MozVR](https://github.com/MozVR/)
 * * * * [WebVR](https://mozvr.github.io/webvr-spec/)
 * * * [ARWithOpenCVandThreeJS](https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/)
-* JS&NodeJS stack for powering standard web-based developments
+* **MD(Material Design) as a bridge from classical web to 3D web**
+* **JS&NodeJS stack for powering standard web-based developments**
 * * [Meteor](www.meteor.com)
 * * [Cordova](http://cordova.apache.org)/[Ionic](ionicframework.com)
 * * [Angular](https://angular.io)/[React](https://facebook.github.io/react/)
