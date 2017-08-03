@@ -1,5 +1,5 @@
 # VirtualityRealityFusion
-Focusing on technologies which can facilitate the fusion of virtuality and reality.
+Focusing on technologies and resources which can facilitate the fusion of virtuality and reality.
 
 
 
@@ -37,6 +37,8 @@ Focusing on technologies which can facilitate the fusion of virtuality and reali
 * * [Meteor](www.meteor.com)
 * * [Cordova](http://cordova.apache.org)/[Ionic](ionicframework.com)
 * * [Angular](https://angular.io)/[React](https://facebook.github.io/react/)
+* UX
+* * [Resources for Product Designers & Developers @ Uplabs](https://www.uplabs.com/)
 * Issues
 * * How to align WebRTC(WebCam Live Streaming) with ThreeJS(Web 3D), which is mobile compatible?
 * * * [Putting Video on Canvas - drawImage() - Not Supported on iOS Safari](https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/PuttingVideoonCanvas/PuttingVideoonCanvas.html)
