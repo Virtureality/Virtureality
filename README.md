@@ -32,6 +32,9 @@ Focusing on technologies and resources which can facilitate the fusion of virtua
 * * * [MozVR](https://github.com/MozVR/)
 * * * * [WebVR](https://mozvr.github.io/webvr-spec/)
 * * * [ARWithOpenCVandThreeJS](https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/)
+* * Globes and Maps
+* * * [Cesium: An open-source JavaScript library for world-class 3D globes and maps](https://cesiumjs.org/index.html)
+* * * [Google Earth Enterprise Open Source](http://www.opengee.org/)
 * **MD(Material Design) as a bridge from classical web to 3D web**
 * **JS&NodeJS stack for powering standard web-based developments**
 * * [Meteor](www.meteor.com)
