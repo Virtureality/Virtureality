@@ -1,7 +1,6 @@
-# VirtualityRealityFusion
-Focusing on technologies and resources which can facilitate the fusion of virtuality and reality.
+# Virtureaity
 
-
+> Focusing on technologies and resources which can facilitate the fusion of virtuality and reality.
 
 * **3D for modeling and making the virtual world**
 * * [ThreeJS](http://threejs.org/)
