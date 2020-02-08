@@ -102,7 +102,7 @@
 *********************************************
 ### Existing Products&Services
 
-:upvote: [SOCOCO: Work remotely,side-by-side.](https://www.sococo.com/)
+:whale: [SOCOCO: Work remotely,side-by-side.](https://www.sococo.com/)
 
 * [jitsi](https://jitsi.org/) - [OSS](https://github.com/jitsi)
 * [tawk](https://tawk.com/) - [service](http://easyrtc.com/) - OSS
