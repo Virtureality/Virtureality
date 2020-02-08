@@ -82,18 +82,7 @@
 * [LEIA3D](https://www.leia3d.com/)
 
 *********************************************
-## Cloud Services ##
-*********************************************
-* [Heroku](https://www.heroku.com/) 
-  | [Add-ons](https://elements.heroku.com/addons): [MongoLab](https://elements.heroku.com/addons/mongolab), [Compose MongoDB](https://elements.heroku.com/addons/mongohq), [Ruppell's Sockets](https://elements.heroku.com/addons/ruppells-sockets), [cine.io](https://elements.heroku.com/addons/cine), ...
-* [bluemix](https://console.ng.bluemix.net)
-* [Dialogic](http://www.dialogic.com) [XMS](http://www.dialogic.com/en/products/media-server-software/xms.aspx)
-* [Backand](https://www.backand.com/) | Notes: For angular backend, in beta, “free-forever” account limited to 500 connections and 10GB data transfer
-* [OrchestrateIO](https://orchestrate.io) | Notes: 1 application free
-
-*********************************************
-## WebRTC ##
-*********************************************
+### WebRTC
 
 * [WebRTC.org](http://www.webrtc.org/)
 * [Muaz Khan Blog](http://muaz-khan.blogspot.com/) - [To Learn WebRTC](http://muaz-khan.blogspot.com/2013/12/i-want-to-learn-webrtc.html)
@@ -111,9 +100,17 @@
 * * * [Android:CrossWalk](https://crosswalk-project.org/)
 
 *********************************************
-## Existing Apps&Services ##
+### Cloud Services
+
+* [Heroku](https://www.heroku.com/) 
+  | [Add-ons](https://elements.heroku.com/addons): [MongoLab](https://elements.heroku.com/addons/mongolab), [Compose MongoDB](https://elements.heroku.com/addons/mongohq), [Ruppell's Sockets](https://elements.heroku.com/addons/ruppells-sockets), [cine.io](https://elements.heroku.com/addons/cine), ...
+* [bluemix](https://console.ng.bluemix.net)
+* [Dialogic](http://www.dialogic.com) [XMS](http://www.dialogic.com/en/products/media-server-software/xms.aspx)
+* [Backand](https://www.backand.com/) | Notes: For angular backend, in beta, “free-forever” account limited to 500 connections and 10GB data transfer
+* [OrchestrateIO](https://orchestrate.io) | Notes: 1 application free
+
 *********************************************
-================================
+### Existing Products&Services
 
 * [jitsi](https://jitsi.org/) - [OSS](https://github.com/jitsi)
 * [tawk](https://tawk.com/) - [service](http://easyrtc.com/) - OSS
@@ -133,5 +130,4 @@
 * stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
 * [https://ngrok.com/](https://ngrok.com/) - expose locally running servers over a tunnel to a public URL
 
-* [实时猫](https://shishimao.com/)
 * [ZEGO](http://www.zego.im/)
