@@ -100,16 +100,6 @@
 * * * [Android:CrossWalk](https://crosswalk-project.org/)
 
 *********************************************
-### Cloud Services
-
-* [Heroku](https://www.heroku.com/) 
-  | [Add-ons](https://elements.heroku.com/addons): [MongoLab](https://elements.heroku.com/addons/mongolab), [Compose MongoDB](https://elements.heroku.com/addons/mongohq), [Ruppell's Sockets](https://elements.heroku.com/addons/ruppells-sockets), [cine.io](https://elements.heroku.com/addons/cine), ...
-* [bluemix](https://console.ng.bluemix.net)
-* [Dialogic](http://www.dialogic.com) [XMS](http://www.dialogic.com/en/products/media-server-software/xms.aspx)
-* [Backand](https://www.backand.com/) | Notes: For angular backend, in beta, “free-forever” account limited to 500 connections and 10GB data transfer
-* [OrchestrateIO](https://orchestrate.io) | Notes: 1 application free
-
-*********************************************
 ### Existing Products&Services
 
 * [jitsi](https://jitsi.org/) - [OSS](https://github.com/jitsi)
@@ -126,8 +116,8 @@
 * [TeleStax](http://www.telestax.com/) [Mobicents Media Server](http://www.telestax.com/mobicents-media-server-now-supports-webrtc/)
 * [GenBand WebRTC Gateway](http://www.genband.com/products/experius/webrtc-gateway)
 * [https://pusher.com/](https://pusher.com/) - Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100k messages a day.
-* stun:stun.l.google.com:19302 - Google STUN
-* stun:global.stun.twilio.com:3478?transport=udp - Twilio STUN
+* [Google STUN](stun:stun.l.google.com:19302)
+* [Twilio STUN](stun:global.stun.twilio.com:3478?transport=udp)
 * [https://ngrok.com/](https://ngrok.com/) - expose locally running servers over a tunnel to a public URL
-
+* [Dialogic](http://www.dialogic.com) [XMS](http://www.dialogic.com/en/products/media-server-software/xms.aspx)
 * [ZEGO](http://www.zego.im/)
